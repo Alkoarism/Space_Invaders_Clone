@@ -1,7 +1,7 @@
 #ifndef GAME_H
 #define GAME_H
 
-#include "OpenGL\renderer.h"
+#include "OpenGL/renderer.h"
 #include "sprite_renderer.h"
 #include "game_level.h"
 #include "bullet.h"

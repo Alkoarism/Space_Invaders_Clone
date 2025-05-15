@@ -1,7 +1,7 @@
 #ifndef GAME_LEVEL_H
 #define GAME_LEVEL_H
 
-#include "OpenGL\renderer.h"
+#include "OpenGL/renderer.h"
 
 #include "alien.h"
 #include "ufo.h"

@@ -1,5 +1,5 @@
-#include "OpenGL\renderer.h"
-#include "OpenGL\camera.h"
+#include "OpenGL/renderer.h"
+#include "OpenGL/camera.h"
 
 #include "game.h"
 
